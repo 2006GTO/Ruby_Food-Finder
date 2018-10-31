@@ -1,0 +1,4 @@
+Hot Tamale	Mexican	25
+Le Cigar Balon	French	75
+Palace	American Hautte	100
+pit pocket	fast food	10
